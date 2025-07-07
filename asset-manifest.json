@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Real-Estate-Management-System/static/css/main.ba22aa3c.css",
-    "main.js": "/Real-Estate-Management-System/static/js/main.9a540ba1.js",
+    "main.css": "/Real-Estate-Management-System/static/css/main.1062a09e.css",
+    "main.js": "/Real-Estate-Management-System/static/js/main.888b9172.js",
     "static/js/61.e8a88f5e.chunk.js": "/Real-Estate-Management-System/static/js/61.e8a88f5e.chunk.js",
     "static/js/507.946c7a4b.chunk.js": "/Real-Estate-Management-System/static/js/507.946c7a4b.chunk.js",
-    "static/js/893.dccbe315.chunk.js": "/Real-Estate-Management-System/static/js/893.dccbe315.chunk.js",
+    "static/js/157.876c2978.chunk.js": "/Real-Estate-Management-System/static/js/157.876c2978.chunk.js",
     "static/js/425.ad355c27.chunk.js": "/Real-Estate-Management-System/static/js/425.ad355c27.chunk.js",
     "static/media/house1.png": "/Real-Estate-Management-System/static/media/house1.97c04a4d863073d604de.png",
     "static/media/house2.png": "/Real-Estate-Management-System/static/media/house2.d04b9cfe9155aa3d961f.png",
@@ -23,15 +23,15 @@
     "static/media/logo1.png": "/Real-Estate-Management-System/static/media/logo1.a38fb0e875d3e0056e40.png",
     "static/media/tvs-layout.jpg": "/Real-Estate-Management-System/static/media/tvs-layout.b12bdbc2073fa86397e3.jpg",
     "index.html": "/Real-Estate-Management-System/index.html",
-    "main.ba22aa3c.css.map": "/Real-Estate-Management-System/static/css/main.ba22aa3c.css.map",
-    "main.9a540ba1.js.map": "/Real-Estate-Management-System/static/js/main.9a540ba1.js.map",
+    "main.1062a09e.css.map": "/Real-Estate-Management-System/static/css/main.1062a09e.css.map",
+    "main.888b9172.js.map": "/Real-Estate-Management-System/static/js/main.888b9172.js.map",
     "61.e8a88f5e.chunk.js.map": "/Real-Estate-Management-System/static/js/61.e8a88f5e.chunk.js.map",
     "507.946c7a4b.chunk.js.map": "/Real-Estate-Management-System/static/js/507.946c7a4b.chunk.js.map",
-    "893.dccbe315.chunk.js.map": "/Real-Estate-Management-System/static/js/893.dccbe315.chunk.js.map",
+    "157.876c2978.chunk.js.map": "/Real-Estate-Management-System/static/js/157.876c2978.chunk.js.map",
     "425.ad355c27.chunk.js.map": "/Real-Estate-Management-System/static/js/425.ad355c27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba22aa3c.css",
-    "static/js/main.9a540ba1.js"
+    "static/css/main.1062a09e.css",
+    "static/js/main.888b9172.js"
   ]
 }
