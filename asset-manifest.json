@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Real-Estate-Management-System/static/css/main.1062a09e.css",
-    "main.js": "/Real-Estate-Management-System/static/js/main.ba9ba8c5.js",
+    "main.js": "/Real-Estate-Management-System/static/js/main.d1d54d01.js",
     "static/js/61.e8a88f5e.chunk.js": "/Real-Estate-Management-System/static/js/61.e8a88f5e.chunk.js",
     "static/js/507.946c7a4b.chunk.js": "/Real-Estate-Management-System/static/js/507.946c7a4b.chunk.js",
     "static/js/157.876c2978.chunk.js": "/Real-Estate-Management-System/static/js/157.876c2978.chunk.js",
@@ -24,7 +24,7 @@
     "static/media/tvs-layout.jpg": "/Real-Estate-Management-System/static/media/tvs-layout.b12bdbc2073fa86397e3.jpg",
     "index.html": "/Real-Estate-Management-System/index.html",
     "main.1062a09e.css.map": "/Real-Estate-Management-System/static/css/main.1062a09e.css.map",
-    "main.ba9ba8c5.js.map": "/Real-Estate-Management-System/static/js/main.ba9ba8c5.js.map",
+    "main.d1d54d01.js.map": "/Real-Estate-Management-System/static/js/main.d1d54d01.js.map",
     "61.e8a88f5e.chunk.js.map": "/Real-Estate-Management-System/static/js/61.e8a88f5e.chunk.js.map",
     "507.946c7a4b.chunk.js.map": "/Real-Estate-Management-System/static/js/507.946c7a4b.chunk.js.map",
     "157.876c2978.chunk.js.map": "/Real-Estate-Management-System/static/js/157.876c2978.chunk.js.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.1062a09e.css",
-    "static/js/main.ba9ba8c5.js"
+    "static/js/main.d1d54d01.js"
   ]
 }
